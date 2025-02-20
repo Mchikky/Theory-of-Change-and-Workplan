@@ -10,13 +10,13 @@ May 2025 to October 2026
 ### Brief Summary of Project
 This project aims to empower and enhance the wellbeing of young people with disabilities including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State through the following objectives:
 
-Significantly empower young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by equipping them with in-demand technology skills such as data analytics, web development, and geographic information systems through targeted training programs tailored to meet the specific needs of participants.
+- Significantly empower young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by equipping them with in-demand technology skills such as data analytics, web development, and geographic information systems through targeted training programs tailored to meet the specific needs of participants.
 
-Create public awareness for effective social inclusion for people with intellectual disabilities
+- Create public awareness for effective social inclusion for people with intellectual disabilities
 
-Provide grant research into prevalence of intellectual disabilities in communities in Kano (various disabilities)
+- Provide grant research into prevalence of intellectual disabilities in communities in Kano (various disabilities)
 
-Create a safe environment for young people with intellectual disabilities
+- Create a safe environment for young people with intellectual disabilities
 
 These 3 principles underpins the implementation of this project:
 Person-Centered Approach: The project prioritizes the needs and preferences of young people with disabilities, ensuring their active participation in all aspects of the project.
