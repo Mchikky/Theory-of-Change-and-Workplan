@@ -140,7 +140,8 @@ The proposed project aims to improve the employability and enhance the wellbeing
 1. Significantly empower young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by equipping them with in-demand technology skills such as data analytics, web development, and geographic information systems through targeted training programs tailored to meet the specific needs of participants.
 2. Create public awareness for effective social inclusion for people with intellectual disabilities
 3. Provide grant research into prevalence of intellectual disabilities in communities in Kano (various disabilities)
-4. Create a safe environment for young people with intellectual disabilities
+4. Create a safe environment for young people with intellectual disabilities.
+   
 The project aims to achieve these intended outcomes:
 - Short-Term outcomes:
 Improved tech skills and knowledge.
