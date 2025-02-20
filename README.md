@@ -2,10 +2,6 @@
 
 ## Proposed Project Title
 Empower and enhance the wellbeing of young people with disabilities including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State.  
-## Country and Location of Project
-Nigeria, Kano State
-## Project period
-May 2025 to October 2026
 
 ### Brief Summary of Project
 This project aims to empower and enhance the wellbeing of young people with disabilities including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State through the following objectives:
@@ -49,165 +45,12 @@ The underlying issues that this project will address include: limited access to 
 - Insufficient Safe and Supportive Environments: Young people with intellectual disabilities  often lack safe and supportive spaces where they can build social connections, develop essential life skills, and access necessary support services. Consequently, increases their vulnerability to exploitation, abuse, and mental health challenges, further marginalizing them from mainstream society. 
 The above-mentioned interconnected challenges limit the potential of young people with disabilities, hinder their contributions to the society, and undermine the African Union 2063 broader goals of equity and social justice. Addressing these problems is not only a matter of human rights but also strategic in building a more inclusive and prosperous community for all. In overall, the  lack of adequate support and opportunities for young people with disabilities represents a significant loss of human potential and economic productivity.
 
-### Theory of Change:  
-### Goal: 
-To significantly improve the employability and enhance the wellbeing of young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State over 15 months.  
-### Objective 1: 
-Significantly empower young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by equipping them with in-demand technology skills such as data analytics, web development, and geographic information systems through targeted training programs tailored to meet the specific needs of participants.
-#### Activities:
-Needs assessment for tech training enrolment of youth between 15-35 living with disabilities including people living with intellectual disabilities.
-Dialogue with stakeholders at the local levels to understand the existing programs supporting people living with disabilities.
-Identify facilitators, government structures including schools, policymakers, non-governmental organisations, and Organizations of Persons with Disabilities (OPDs) in Kano State that promote disability inclusion 
-Train young people with disabilities on in-demand technology skills 
-#### Outputs:
-Number of youth living with disabilities between 15-35 years that enrol and participate in training sessions
-Number of stakeholders at the local levels who understand the issues of people living with disabilities.
-Number of skilled facilitators delivering the training and number of Organizations of Persons with Disabilities (OPDs) in Kano State involved in the project 
-Number of participants demonstrate proficiency in targeted tech skills. 
-#### Expected outcomes:
-Increased knowledge in tech courses among youth between 15-35 living with disabilities
-Stakeholders’ engagement and commitment towards people living with disabilities
-Acquired employability skills in tech, participation of people living with disabilities in employment opportunities and community development.
-#### Assumptions:
-Industry-relevant tech skills are in demand and lead to employment opportunities for individuals with disabilities in the local/regional job market; the courses are designed to meet the diverse needs of individuals with different disabilities.
-Participants are motivated to learn new skills and actively seek employment after the completion of the training.
-Employers are willing to hire individuals with disabilities and provide reasonable accommodations.
 
-### Objective 2: 
-Create public awareness for effective social inclusion for people with intellectual disabilities
-#### Activities: 
-Organize community dialogues with leaders, parents and caregivers on the importance of disability inclusion.
-Facilitate  policy dialogues with local government councils to promote equal opportunities for persons with disability and their rights to services including education, health, employment etc
-Foster collaborations and build partnerships with government institutions, development partners, Civil society Organizations, Organizations of Persons with Disabilities (OPDs), National Commission for Persons with Disabilities (NCPWD) to promote the rights of  persons with mental disabilities.
-#### Outputs:
-Number of community dialogues conducted with leaders, parents and caregivers on the importance of disability inclusion.
-Number of   parents and caregivers involved in advocating for the rights of their children with disabilities
-Number of organisations actively participating in project activities including (reached with the messages on inclusion and) challenging discrimination against  people with intellectual disabilities
-#### Expected outcomes:
-Better understanding of the concept of (discrimination), disability inclusion, and gender consideration as regards people with intellectual disabilities
-Community events and gatherings are inclusive of persons with disabilities
-Reduced stigma and discrimination, increased inclusive services, and increased advocacy on equal opportunities for people with intellectual disabilities
-#### Assumptions:
-Public awareness campaigns can effectively change attitudes and behaviours towards people with intellectual disability.
-The awareness campaign is culturally sensitive, reaches diverse audiences, leading to concrete actions and changes in behaviour towards people with disabilities.
-Community members, organisations, professionals, leaders, parents and caregivers are receptive to training on inclusive practices.
 
-### Objective 3: 
-Provide grant research into prevalence of intellectual disabilities in communities in Kano (various disabilities)
-#### Activities:
-Rapid survey to identify the number of people with intellectual disabilities in communities in Kano.
-Engage with organizations of persons with disabilities for review of existing database on persons with mental disabilities
-#### Outputs:
-Number of persons with intellectual disabilities identified within communities, policy briefs, and recommendations
-Number of persons with intellectual disabilities documented within organizations’ databases
-#### Expected outcomes:
-Prevalence of persons with mental disabilities documented, improved decision-making as a result of the recommendation;
-Data for planning available for future interventions around service provision, informed policies and practices related to intellectual disability services. 
-#### Assumptions:
-The research methodology is well designed and produces reliable and valid data.
-Participants are willing to participate in the research.
-The research findings are disseminated effectively and reach key decision-makers to inform policy and practice.
-### Objective 4: 
-Create a safe environment for young people with intellectual disabilities
-#### Activities:
-Organize community inclusive events/support groups for peer-to-peer interaction, and caregivers forum
-Mapping of and referral to available psychosocial support services 
-Community awareness creation on available support services
-#### Outputs:
-Number of community events/support groups organized for P2P interactions
-Number of organizations providing psychosocial support services
-Number of persons with disabilities referred to services.
-#### Expected outcomes:
-Reduced barriers to the inclusion of young people with intellectual disabilities including discrimination, caregivers’ denial
-Improved wellbeing 
-Improved referral linkages to available psychosocial services
-Improved knowledge on the available support services for young people living with intellectual disabilities.  
-#### Assumptions:
-Participants feel safe and comfortable in the safe spaces; accessible and inclusive to individuals with diverse needs.
-Referral centres provide a supportive and empowering environment for young people with intellectual disability.
-The activities offered are relevant to the needs of the participants.
 
-### Inputs: 
-Facilitators to conduct the training, program staff to oversee planning and implementation of the program, curriculum development, communication materials on intellectual disabilities and inclusion strategies, equipment for training, partnerships with relevant stakeholders, researchers, trained counselors, security measures, accessibility features, facilities to hold training and workshops.
-### Impact:
-Economic inclusion and empowerment of young people with disabilities for a more diverse and inclusive tech workforce.
-Social inclusion and participation of people with intellectual disabilities leading to a more inclusive and equitable society.
-Better targeted services and support for people with intellectual disabilities with more effective allocation of resources to address their needs.
-Reduced vulnerability to abuse and exploitation of people living with intellectual disabilities through higher participation in community life and improved quality of life
-### General assumptions:
-The project can only be successful if implemented in a structured and coordinated manner with these general assumptions in place.
-If young people with disabilities, including intellectual disabilities, between the ages of 15-35 years are readily available to learn the market-relevant tech skills then their knowledge will be  improved.
-If the young people with disabilities complete the relevant courses, then their employability skills will increase.
-If the employment opportunities are available and the employers are aware of equal opportunities for people with disabilities; those with an increased capacity can have access to employment or become an entrepreneur.
-If there is stakeholder buy-in with an enabling environment, then the project will have greater community acceptance and more young people with disabilities, including intellectual disabilities will be reached hence sustainability.
-If there is availability of resources, more young people with disabilities will be covered.
-If there is no disruption of the implementation by external factors such as insurgence, conflict, policy changes, economic conditions, societal attitudes then the project timeline will be observed.
 
-## The Theory of Change (ToC) framework 
-Used for this proposal is adapted from the Social Model of Disability which holds that society is responsible for accommodating disabled people and removing barriers to their inclusion. The project will create change through a multi-pronged approach:
-- Skills & Employability: Equip young people with disabilities, including intellectual disabilities, with in-demand technology skills addressing barriers to accessing employment and economic independence which can lead to increased self-sufficiency and greater sense of purpose.
-- Awareness & Inclusion: The public awareness campaign shifts attitudes and behaviours towards people with intellectual disability fostering a more inclusive society resulting in greater acceptance, reduced discrimination, and increased opportunities for social participation.
-- Data & Knowledge: The research on the prevalence of intellectual disability will provide crucial data for informed decision-making and targeted resource allocation for more effective programs and policies to meet the specific needs of this population.
-- Safe Environments: The creation of safe spaces provides a supportive and empowering environment for young people with intellectual disability which fosters social connection, reduces isolation, promotes mental health and well-being for sustainability.
 
-### Brief description of the proposed project, its objectives, and intended outcomes.
-The proposed project aims to improve the employability and enhance the wellbeing of young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State over 15 months under the following objectives: 
-1. Significantly empower young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by equipping them with in-demand technology skills such as data analytics, web development, and geographic information systems through targeted training programs tailored to meet the specific needs of participants.
-2. Create public awareness for effective social inclusion for people with intellectual disabilities
-3. Provide grant research into prevalence of intellectual disabilities in communities in Kano (various disabilities)
-4. Create a safe environment for young people with intellectual disabilities.
-   
-The project aims to achieve these intended outcomes:
-- Short-Term outcomes:
-Improved tech skills and knowledge.
-Increased confidence, self-esteem, sense of belonging and social connection among participants to reduce feelings of isolation and loneliness.
-Increased knowledge and understanding of intellectual disabilities among the general public. Reduction in negative stereotypes and misconceptions.
-Increased understanding of the prevalence of intellectual disability among different disability groups.
-- Medium-Term outcomes:
-Increased employment rates among participants in tech-related roles leading to improved financial stability and independence.
-Increased acceptance and inclusion of people with intellectual disability  in schools, workplaces, and community settings with a more positive attitude towards individuals with disability and increased support for inclusive policies and practices.
-Improved data-driven decision-making regarding resource allocation, program development, informed policies and practices related to disability services.
-Enhanced mental health and well-being.
 
-### Methodology for objective 1 activities:
-Activity 1: Needs assessment for tech training: Conduct a thorough assessment of the tech skills in demand in Kano State and the specific needs and interests of young people with disabilities through  surveys and focus group discussions. 
-
-Activity 2: Dialogue with stakeholders at the local levels: Meeting with stakeholders for better understanding of any existing intervention and past ones. 
-
-Activity 3: Identify facilitators, government structures, including schools, policymakers, and non-governmental organisations that promote disability inclusion - Develop a tailored tech training curriculum that is accessible, engaging, and relevant to the local job market. This curriculum should accommodate diverse learning styles and abilities, including those with intellectual disabilities.
-
-Activity 4: Train young people with disabilities on in-demand technology skills. Tailor training according to participants’ needs and adopt personalized learning experience for each participant.  Ensure all training materials are available in accessible formats
-
-#### Expected achievement:
-Young people with disabilities participate in the tech training program and complete the training successfully. Improved self-confidence and job readiness among participants. 
-
-### Methodology for objective 2 activities: 
-Activity 1: Organize community dialogues - Reach out to leaders, parents and caregivers for discussions on the importance of disability inclusion. Develop a comprehensive communications strategy that outlines the key messages, target audiences, and communication channels for the awareness campaign. Develop a range of accessible awareness materials, including posters, brochures, and radio spots that challenge negative stereotypes and promote the inclusion of people with intellectual disabilities. Disseminate educational materials about intellectual disabilities and inclusion strategies. 
-
-Activity 2: Facilitate policy dialogues with local government councils - Liaise with local authorities for policy dialogues on how to promote equal opportunities for persons with disability and their rights to services including education, health, employment etc
-
-Activity 3: Foster collaborations and build partnerships - Strengthen relationships with government institutions, development partners, Civil society Organizations, Organizations of Persons with Disabilities (OPDs), National Commission for Persons with Disabilities (NCPWD) to promote the rights of persons with mental disabilities.
-
-#### Expected achievement:
-Increased positive attitudes toward people with disabilities and increase in public knowledge and understanding of intellectual disabilities. Increase in public knowledge and understanding of intellectual disabilities. Educators, healthcare providers, employers, and community leaders are aware of inclusive practices.
-
-### Methodology for objective 3 activities: 
-Activity 1: Rapid survey to identify the number of people with intellectual disabilities in communities in Kano - Develop a research protocol, secure ethical approval, recruit a representative sample of individuals with various disabilities to participate in the study, collect data, analyze data, and disseminate the research findings to key stakeholders, including policymakers, healthcare providers, disability organizations, and the general public.
-
-Activity 2: Engage with organizations of persons with disabilities for review of existing databases on persons with mental disabilities - Work with the network of people living with disabilities and local authorities to have access to the database for review.
-
-##### Expected achievement: 
-Completed research study on the prevalence of intellectual disabilities among individuals with various disabilities in Kano State. Dissemination of findings to key stakeholders (policymakers, healthcare providers, disability organizations). Increased awareness among policymakers and service providers of the prevalence of intellectual disabilities and the need for targeted interventions.
-
-### Methodology for objective 4 activities: 
-Activity 1: Organize community inclusive events/support groups for peer-to-peer interaction, and caregivers’ forum - Develop age-appropriate and implement culturally sensitive activities (peer support groups, social events, skill-building workshops). 
-
-Activity 2: Mapping of and referral to available psychosocial support services - Identify accessible locations for psychosocial support within the community, considering safety and convenience . Sign memorandum of understanding, establish safety protocols and security measures.
-
-Activity 3: Community awareness creation on available support services - Promote the safe spaces to the target population. Work closely with parents and caregivers to ensure the safety and well-being of participants.
-
-#### Expected achievement: 
-Safe spaces established and operational in Kano State. Young people with intellectual disabilities participate regularly in activities at the safe spaces. Increased sense of belonging and social connection among participants. Improved social skills and communication abilities among participants Reduced feelings of isolation and loneliness among participants.
 
 
  
