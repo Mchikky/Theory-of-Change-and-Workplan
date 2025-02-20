@@ -8,24 +8,39 @@ Nigeria, Kano State
 May 2025 to October 2026
 
 ### Brief Summary of Project
-This project aims to empower and enhance the wellbeing of young people with disabilities including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State through the following objectives: 
+This project aims to empower and enhance the wellbeing of young people with disabilities including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State through the following objectives:
+
 Significantly empower young people with disabilities, including intellectual disabilities, between the ages of 15-35 years by equipping them with in-demand technology skills such as data analytics, web development, and geographic information systems through targeted training programs tailored to meet the specific needs of participants.
+
 Create public awareness for effective social inclusion for people with intellectual disabilities
+
 Provide grant research into prevalence of intellectual disabilities in communities in Kano (various disabilities)
+
 Create a safe environment for young people with intellectual disabilities
+
 These 3 principles underpins the implementation of this project:
 Person-Centered Approach: The project prioritizes the needs and preferences of young people with disabilities, ensuring their active participation in all aspects of the project.
+
 Accessibility and Inclusion: The project is committed to creating accessible and inclusive environments and activities for individuals with diverse disabilities.
+
 Collaboration and Partnerships: The project works in collaboration with a variety of stakeholders, including disability organizations, government agencies, development partners, educators, and policymakers for sustainability and wider impact.
+
 ### Project Relevance and Justification 
 Context Rational: Brief summary on the specific context that relates to this project. 
-According to Nigeria Demographic and Health Survey (NDHS) 2018, an estimated 7% of household members aged 5 or above have some level of difficulty in at least one functional domain:  seeing, hearing, communication, cognition, walking, or self-care while 1% either have a lot of difficulty or cannot function at all in at least one domain. Persons with disabilities encounter attitudinal and environmental barriers that hinder their full, equal, and effective participation in the society. As a result, they are more likely to experience adverse socioeconomic outcomes and higher rates of multidimensional poverty than the general population.  However, disability-related data are sparse due government’s low prioritization of collecting disability-disaggregated data.				
+
+According to Nigeria Demographic and Health Survey (NDHS) 2018, an estimated 7% of household members aged 5 or above have some level of difficulty in at least one functional domain:  seeing, hearing, communication, cognition, walking, or self-care while 1% either have a lot of difficulty or cannot function at all in at least one domain. Persons with disabilities encounter attitudinal and environmental barriers that hinder their full, equal, and effective participation in the society. As a result, they are more likely to experience adverse socioeconomic outcomes and higher rates of multidimensional poverty than the general population.  However, disability-related data are sparse due government’s low prioritization of collecting disability-disaggregated data.	
+
 This project directly aligns with Sustainable Development Goals (SDGs), particularly SDG 1 (Poverty), SDG 4 (Quality Education) and SDG 10 (Reduced Inequalities); also with African Union Agenda 2063, Goal 1 of providing a high standard of living, quality of life, and well being for all citizens. Specifically support efforts to ensure inclusive and equitable quality education; also reduce inequalities by empowering marginalized groups. This ties with Nigeria's commitment on advancement and promotion of disability rights, inclusion, and well-being of persons with disabilities. 
+
 The project is highly relevant to promoting social inclusion and upholding the human rights of people with disabilities through awareness creation, advocating for their rights, and establishing safe spaces. The proposed interventions will help to break barriers leading to a more inclusive and equitable society where people with intellectual disability can participate in community life hence reducing isolation and improving overall quality of life. Furthemore, involving parents and caregivers in advocating for the rights of their children is essential to creating sustainable and sustained change. 
+
 Conducting research on the prevalence of intellectual disabilities will provide a data-driven approach of using the findings to inform program design and policy advocacy ensuring that the implementation  is evidence-based and tailored to the specific needs of the target population in Kano State. This data-driven approach will maximize the impact of the intervention and ensure that resources are allocated effectively.
+
 Kano State faces significant socio-economic challenges, including high rates of unemployment and poverty, particularly among marginalized populations such as young people with disabilities. Consequently, those with intellectual disabilities are disproportionately affected by these challenges, further exacerbating existing inequalities. In recent years, the global economy is increasingly driven by technology. Therefore, providing access to in-demand technology skills positions young people with disabilities to participate in the digital economy and take advantage of emerging opportunities in sectors such as data analytics, web development, and geographic information systems to enhance their employability and participation in community development.
+
 ### Problem Statement: 
-Young people with disabilities in Nigeria, particularly those with intellectual disabilities are a marginalized group facing significant and systemic barriers to full participation and inclusion in the society. 				
+Young people with disabilities in Nigeria, particularly those with intellectual disabilities are a marginalized group facing significant and systemic barriers to full participation and inclusion in the society. 	
+
 ### Underlying issues: 
 The underlying issues that this project will address include: limited access to economic opportunity, persistent social exclusion, inadequate data for decision making, and insufficient safe and supportive environment.
 - Limited Access to Economic Opportunity: A significant gap exists in access to industry-relevant skills and training for young people with disabilities, especially those with intellectual disabilities. Most often they are largely excluded from the burgeoning technology sector and other high-growth industries, perpetuating cycles of poverty and dependence. 
