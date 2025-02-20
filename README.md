@@ -156,26 +156,41 @@ Enhanced mental health and well-being.
 
 ### Methodology for objective 1 activities:
 Activity 1: Needs assessment for tech training: Conduct a thorough assessment of the tech skills in demand in Kano State and the specific needs and interests of young people with disabilities through  surveys and focus group discussions. 
+
 Activity 2: Dialogue with stakeholders at the local levels: Meeting with stakeholders for better understanding of any existing intervention and past ones. 
+
 Activity 3: Identify facilitators, government structures, including schools, policymakers, and non-governmental organisations that promote disability inclusion - Develop a tailored tech training curriculum that is accessible, engaging, and relevant to the local job market. This curriculum should accommodate diverse learning styles and abilities, including those with intellectual disabilities.
+
 Activity 4: Train young people with disabilities on in-demand technology skills. Tailor training according to participants’ needs and adopt personalized learning experience for each participant.  Ensure all training materials are available in accessible formats
+
 #### Expected achievement:
 Young people with disabilities participate in the tech training program and complete the training successfully. Improved self-confidence and job readiness among participants. 
+
 ### Methodology for objective 2 activities: 
 Activity 1: Organize community dialogues - Reach out to leaders, parents and caregivers for discussions on the importance of disability inclusion. Develop a comprehensive communications strategy that outlines the key messages, target audiences, and communication channels for the awareness campaign. Develop a range of accessible awareness materials, including posters, brochures, and radio spots that challenge negative stereotypes and promote the inclusion of people with intellectual disabilities. Disseminate educational materials about intellectual disabilities and inclusion strategies. 
+
 Activity 2: Facilitate policy dialogues with local government councils - Liaise with local authorities for policy dialogues on how to promote equal opportunities for persons with disability and their rights to services including education, health, employment etc
+
 Activity 3: Foster collaborations and build partnerships - Strengthen relationships with government institutions, development partners, Civil society Organizations, Organizations of Persons with Disabilities (OPDs), National Commission for Persons with Disabilities (NCPWD) to promote the rights of persons with mental disabilities.
+
 #### Expected achievement:
 Increased positive attitudes toward people with disabilities and increase in public knowledge and understanding of intellectual disabilities. Increase in public knowledge and understanding of intellectual disabilities. Educators, healthcare providers, employers, and community leaders are aware of inclusive practices.
+
 ### Methodology for objective 3 activities: 
 Activity 1: Rapid survey to identify the number of people with intellectual disabilities in communities in Kano - Develop a research protocol, secure ethical approval, recruit a representative sample of individuals with various disabilities to participate in the study, collect data, analyze data, and disseminate the research findings to key stakeholders, including policymakers, healthcare providers, disability organizations, and the general public.
+
 Activity 2: Engage with organizations of persons with disabilities for review of existing databases on persons with mental disabilities - Work with the network of people living with disabilities and local authorities to have access to the database for review.
+
 ##### Expected achievement: 
 Completed research study on the prevalence of intellectual disabilities among individuals with various disabilities in Kano State. Dissemination of findings to key stakeholders (policymakers, healthcare providers, disability organizations). Increased awareness among policymakers and service providers of the prevalence of intellectual disabilities and the need for targeted interventions.
+
 ### Methodology for objective 4 activities: 
 Activity 1: Organize community inclusive events/support groups for peer-to-peer interaction, and caregivers’ forum - Develop age-appropriate and implement culturally sensitive activities (peer support groups, social events, skill-building workshops). 
+
 Activity 2: Mapping of and referral to available psychosocial support services - Identify accessible locations for psychosocial support within the community, considering safety and convenience . Sign memorandum of understanding, establish safety protocols and security measures.
+
 Activity 3: Community awareness creation on available support services - Promote the safe spaces to the target population. Work closely with parents and caregivers to ensure the safety and well-being of participants.
+
 #### Expected achievement: 
 Safe spaces established and operational in Kano State. Young people with intellectual disabilities participate regularly in activities at the safe spaces. Increased sense of belonging and social connection among participants. Improved social skills and communication abilities among participants Reduced feelings of isolation and loneliness among participants.
 
