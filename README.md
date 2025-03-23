@@ -1,4 +1,4 @@
-# Theory-of-Change-and-Workplan
+# Theory of Change and Workplan
 
 ## Proposed Project Title
 Empower and enhance the wellbeing of young people with disabilities including intellectual disabilities, between the ages of 15-35 years by providing access to in-demand technology skills, fostering inclusive communities through awareness, research, advocacy, and promoting safe spaces in Kano State.  
