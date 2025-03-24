@@ -14,13 +14,13 @@ This project aims to empower and enhance the wellbeing of young people with disa
 
 - Create a safe environment for young people with intellectual disabilities
 
-These 3 principles underpins the implementation of this project:
+These 3 principles underpin the implementation of this project:
 
-Person-Centered Approach: The project prioritizes the needs and preferences of young people with disabilities, ensuring their active participation in all aspects of the project.
+- Person-Centered Approach: The project prioritizes the needs and preferences of young people with disabilities, ensuring their active participation in all aspects of the project.
 
-Accessibility and Inclusion: The project is committed to creating accessible and inclusive environments and activities for individuals with diverse disabilities.
+- Accessibility and Inclusion: The project is committed to creating accessible and inclusive environments and activities for individuals with diverse disabilities.
 
-Collaboration and Partnerships: The project works in collaboration with a variety of stakeholders, including disability organizations, government agencies, development partners, educators, and policymakers for sustainability and wider impact.
+- Collaboration and Partnerships: The project works in collaboration with a variety of stakeholders, including disability organizations, government agencies, development partners, educators, and policymakers for sustainability and wider impact.
 
 <img width="1072" alt="A_theory" src="https://github.com/user-attachments/assets/8ca20323-caf7-46a5-8321-38e3ed2045e2" />
 
