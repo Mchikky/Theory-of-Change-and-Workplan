@@ -15,6 +15,7 @@ This project aims to empower and enhance the wellbeing of young people with disa
 - Create a safe environment for young people with intellectual disabilities
 
 These 3 principles underpins the implementation of this project:
+
 Person-Centered Approach: The project prioritizes the needs and preferences of young people with disabilities, ensuring their active participation in all aspects of the project.
 
 Accessibility and Inclusion: The project is committed to creating accessible and inclusive environments and activities for individuals with diverse disabilities.
