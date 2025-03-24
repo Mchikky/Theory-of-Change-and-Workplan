@@ -20,11 +20,12 @@ Person-Centered Approach: The project prioritizes the needs and preferences of y
 Accessibility and Inclusion: The project is committed to creating accessible and inclusive environments and activities for individuals with diverse disabilities.
 
 Collaboration and Partnerships: The project works in collaboration with a variety of stakeholders, including disability organizations, government agencies, development partners, educators, and policymakers for sustainability and wider impact.
+
 <img width="1072" alt="A_theory" src="https://github.com/user-attachments/assets/8ca20323-caf7-46a5-8321-38e3ed2045e2" />
 
-
 ### Project Relevance and Justification 
-Context Rational: Brief summary on the specific context that relates to this project. 
+
+#### Context Rational: Brief summary on the specific context that relates to this project. 
 
 According to Nigeria Demographic and Health Survey (NDHS) 2018, an estimated 7% of household members aged 5 or above have some level of difficulty in at least one functional domain:  seeing, hearing, communication, cognition, walking, or self-care while 1% either have a lot of difficulty or cannot function at all in at least one domain. Persons with disabilities encounter attitudinal and environmental barriers that hinder their full, equal, and effective participation in the society. As a result, they are more likely to experience adverse socioeconomic outcomes and higher rates of multidimensional poverty than the general population.  However, disability-related data are sparse due government’s low prioritization of collecting disability-disaggregated data.	
 
@@ -46,6 +47,8 @@ The underlying issues that this project will address include: limited access to 
 - Inadequate Data and Research: There is a critical lack of comprehensive data and research on the prevalence of intellectual disabilities among individuals with various disabilities within Nigeria. This absence of evidence-based information hinders the development of targeted policies, effective interventions, and appropriate resource allocation to address the specific needs of this population. 
 - Insufficient Safe and Supportive Environments: Young people with intellectual disabilities  often lack safe and supportive spaces where they can build social connections, develop essential life skills, and access necessary support services. Consequently, increases their vulnerability to exploitation, abuse, and mental health challenges, further marginalizing them from mainstream society. 
 The above-mentioned interconnected challenges limit the potential of young people with disabilities, hinder their contributions to the society, and undermine the African Union 2063 broader goals of equity and social justice. Addressing these problems is not only a matter of human rights but also strategic in building a more inclusive and prosperous community for all. In overall, the  lack of adequate support and opportunities for young people with disabilities represents a significant loss of human potential and economic productivity.
+
+<img width="998" alt="A_work" src="https://github.com/user-attachments/assets/5b4dcac2-231b-4f17-a77c-08a2a1a46161" />
 
 
 
