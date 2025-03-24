@@ -20,6 +20,8 @@ Person-Centered Approach: The project prioritizes the needs and preferences of y
 Accessibility and Inclusion: The project is committed to creating accessible and inclusive environments and activities for individuals with diverse disabilities.
 
 Collaboration and Partnerships: The project works in collaboration with a variety of stakeholders, including disability organizations, government agencies, development partners, educators, and policymakers for sustainability and wider impact.
+<img width="1072" alt="A_theory" src="https://github.com/user-attachments/assets/8ca20323-caf7-46a5-8321-38e3ed2045e2" />
+
 
 ### Project Relevance and Justification 
 Context Rational: Brief summary on the specific context that relates to this project. 
